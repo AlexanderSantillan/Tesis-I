@@ -1,0 +1,231 @@
+---
+title: "CARACTERIZACIÓN MORFOLÓGICA DE NEMÁTODOS FITOPARÁSITOS ASOCIADOS AL CULTIVO DE ROCOTO (Capsicum pubescens) EN RODRÍGUEZ DE MENDOZA, AMAZONAS."
+author: "JAIME ALEXANDER SANTILLAN PUERTA"
+format:
+  html:
+    toc: true
+    toc-location: left
+    embed-resources: true
+    number-sections: true
+    output-file: index
+    theme: darkly
+    css: estilo.css
+editor_options: 
+  chunk_output_type: console
+---
+
+# Título
+
+::: {style="text-align: justify;"}
+Caracterización morfológica de nemátodos fitoparásitos asociados al cultivo de rocoto (Capsicum pubescens) en Rodríguez de Mendoza, Amazonas.
+
+:::
+# Problema de la investigación 
+
+::: {style="text-align: justify;"}
+El rocoto (Capsicum pubescens) es una planta herbácea perenne originaria de la región andina del Perú, donde se encuentra tanto en estado silvestre como bajo cultivo, principalmente en la sierra y selva alta, a diferencia de otras especies del género Capsicum, el rocoto se distingue por sus flores de color púrpura y sus semillas negras, este fruto; caracterizado por su intenso picor (Hernández-Amasifuen et al., 2021). Posee un importante valor en la gastronomía peruana; es altamente demandado en la preparación de platos típicos y diversas salsas tradicionales, así como propiedades nutricionales, farmacéuticas y medicinales; contiene compuestos bioactivos como alcaloides capsaicinoides y carotenoides (Hernández-Amasifuen et al., 2022).
+
+Los nemátodos fitoparásitos representan un problema significativo, ya que atacan las raíces de las plantas, interfiriendo con su desarrollo y afectando su capacidad para absorber agua y nutrientes, entre los nemátodos más comunes y perjudiciales se encuentran Meloidogyne spp., conocido como el nemátodo agallador, y Belonolaimus longicaudatus, el nemátodo de aguijón, la presencia de estos organismos se manifiesta a través de síntomas como el amarillamiento de las hojas, el marchitamiento de las plantas y la formación de agallas en las raíces, lo que deteriora la salud general de la planta y puede reducir significativamente los rendimientos (Noling, W. 2019).
+
+En el Perú, especialmente en zonas productoras de rocoto como Oxapampa, el cultivo enfrenta un problema significativo causado por nemátodos como Meloidogyne spp. y Pratylenchus spp., que atacan las raíces de las plantas, formando agallas que dificultan la absorción de nutrientes y afectan el crecimiento y desarrollo de las plantas, estos nemátodos, junto con otras plagas y enfermedades, representan un desafío constante para los agricultores, que se ven obligados a recurrir a prácticas que no siempre son sostenibles y que afectan tanto la salud del suelo como la productividad del cultivo (Soto Pecho et al., 2023)
+
+En la provincia de Rodríguez de Mendoza, en la región de Amazonas, el cultivo de rocoto (Capsicum pubescens) presenta sintomatología como amarillamiento de hojas, reducción de crecimiento de la planta y bajo rendimiento en producción, que podría ser debido a la presencia de nemátodos fitoparásitos, aunque son organismos microscópicos, estos nemátodos afectan significativamente la salud de las plantas al dañar sus raíces, lo que impacta negativamente su desarrollo y rendimiento. El rocoto, de gran valor gastronómico, medicinal y económico, es altamente demandado en la región para la elaboración de salsas y platos tradicionales, sin embargo, el aumento de los nemátodos en las parcelas ha generado preocupación entre los productores, quienes enfrentan una disminución en la productividad y calidad del cultivo.
+
+Este problema no solo afecta a los productores, sino también a la economía local, ya que el rocoto es una fuente clave de ingresos para las familias de la zona. La falta de alternativas efectivas para el manejo de los nemátodos, junto con la escasa investigación sobre las especies presentes, empeora la situación. Por lo tanto, es urgente realizar estudios detallados para obtener datos precisos que permitan desarrollar estrategias de control y mejorar la productividad agrícola en Rodríguez de Mendoza.
+
+En este contexto se plantea la siguiente pregunta: ¿Cuáles son los principales nemátodos fitoparásitos asociados al cultivo de rocoto (Capsicum pubescens) en Rodríguez de Mendoza, Amazonas?
+:::
+
+# Objetivos
+
+## Objetivo general
+
+Caracterizar e identificar morfológicamente los principales nemátodos fitoparásitos asociados al cultivo de rocoto (Capsicum pubescens) en Rodríguez de Mendoza, Amazonas y determinar su impacto en el desarrollo de este cultivo. 
+
+## Objetivos específicos 
+
+::: {style="text-align: justify;"}
+✔ Identificar y caracterizar morfológicamente los principales géneros de nemátodos fitoparásitos asociados al cultivo de rocoto (Capsicum pubescens) en Rodríguez de Mendoza, Amazonas. 
+
+✔ Determinar la incidencia del nemátodo agallador en las parcelas de rocoto (Capsicum pubescens) a partir de muestreos aleatorios. 
+
+✔ Evaluar el impacto de los nemátodos fitoparásitos sobre el desarrollo radicular de rocoto (Capsicum pubescens) mediante pruebas de patogenicidad. 
+:::
+
+# Antecedentes de la investigación 
+
+::: {style="text-align: justify;"}
+Los nemátodos fitoparásitos son organismos microscópicos que, aunque de tamaño diminuto, tienen un impacto significativo en la agricultura. Se encuentran distribuidos globalmente y son responsables de pérdidas importantes en cultivos agrícolas debido a su capacidad para infectar las raíces, lo que afecta la absorción de agua y nutrientes, y en algunos casos incluso puede llevar a la muerte de las plantas, entre los nemátodos más relevantes se encuentran los géneros Meloidogyne, Pratylenchus, Rodopholus, y Heterodera, los cuales son conocidos para causar agallas, necrosis y deformaciones en las raíces de diversas plantas (Crozzoli P., 2014). 
+
+Un estudio realizado por Coyne et al. (2007), en el que se abordaron diversas especies de nemátodos fitoparásitos, destacó la dificultad en la identificación de estos organismos en campo, debido a que los daños que ocasiona son a menudo inespecíficos y pueden confundirse con otros problemas bióticos o abióticos, este estudio señaló que la reducción global de la producción agrícola atribuida a los nemátodos es cercana al 11% lo que refleja la magnitud del problema. Además, el trabajo destacó la importancia de realizar un muestreo adecuado y la extracción de muestras de raíces y suelos para determinar la presencia de nemátodos, lo que permite la implementación de estrategia de manejo como la rotación de cultivos, uso de variedades resistentes y control biológico. 
+
+En su estudio realizado en Colombia, Guzmán Piedrahita et al. (2012) describen los principales nemátodos fitoparásitos y los síntomas que ocasionan en cultivos de importancia económica, incluyendo los daños a las raíces y los tejidos aéreos de diversas plantas. Según los autores, los nematodos fitoparásitos son responsables de importantes pérdidas económicas en cultivos como papa, tomate, banano, yuca y varios frutales, causando entre un 11% y un 14% de pérdidas anuales. El estudio destaca la morfología de los nemátodos, que incluye un estilete utilizado para penetrar las células vegetales y extraer los nutrientes, lo cual provoca una serie de síntomas patológicos como agallas, necrosis, y deformación de raíces y hojas.
+
+En la región occidental de Nicaragua, estudios han identificado la presencia y dinámica poblacional de nemátodos fitoparásitos en el cultivo de tomate Salazar Antón & Guzmán Hernández (2013) llevaron a cabo un estudio en los departamentos de León y Chinandega durante el ciclo agrícola 2010 - 2011, donde muestrearon cinco plantaciones por departamento. Se realizaron ocho muestreos en cada plantación, totalizando 80 muestras. Los resultados revelaron que las especies más frecuentes por cada 100 gramos de suelo fueron Meloidogyne spp. con 739 individuos, Pratylenchus con 555, Tylenchorhynchus con 386 y Helicotylenchus con 252. Además, se observó que factores como el tipo de suelo y la rotación de cultivos influenciaron significativamente las poblaciones de nemátodos, mientras que las precipitaciones no mostraron un efecto notable. 
+
+En un estudio realizado por Caballero Mairesse et al. (2021) en el departamento de Cordillera, Paraguay, se identificaron varios nemátodos fitoparásitos asociados a solanáceas cultivadas, como tomate, tomate cherry y pimiento. A través de la extracción de muestras de suelo y el análisis de la diversidad de nemátodos, se detectaron diez géneros de fitonemátodos, entre ellos Meloidogyne, Tylenchorhynchus, Helicotilenchus, y Pratylenchus, siendo Tylenchorhynchus el más frecuente, con una alta abundancia de hasta 784 individuos por 100 cm³ de suelo. Este estudio resaltó la importancia de estos nemátodos como causantes de graves pérdidas en los cultivos, lo que subraya la necesidad de comprender la abundancia y diversidad de estos organismos para poder implementar medidas de manejo afectivas. Además, se destacó la necesidad de realizar monitoreos continuos para evaluar el impacto de estas especies en la producción agrícola y ajustar las estrategias de control en función de su prevalencia. 
+
+El cultivo de rocoto (Capsicum pubescens) en la provincia de Oxapampa, Perú, enfrenta desafíos significativos debido a la presencia de plagas, como los ácaros (Tetranychus sp.) y nemátodos (Meloidogyne spp. y Pratylenchus spp.), que afectan las raíces y el crecimiento de las plantas, estos problemas, junto con el uso extendido de agroquímicos como piretroides y fungicidas, han generado preocupaciones sobre la acumulación de metales pesados, como plomo y cadmio, en los frutos, lo que podría comprometer la salud humana (Soto Pecho et al., 2023). Además, estudios previos han documentado la persistencia de problemas fitosanitarios similares en otros cultivos, lo que resalta la importancia de investigar los métodos de manejo de plagas y enfermedades en la agricultura local para mejorar la sostenibilidad del cultivo de rocoto (Huamán, 2019). 
+
+En la región Amazonas, estudios sobre nematodos fitoparásitos han revelado su impacto en diversos cultivos agrícolas, entre ellos el café y la piña. En particular, la investigación realizada en la provincia de Rodríguez de Mendoza ha identificado varios géneros de nematodos asociados al cultivo de piña, destacando Helicotylenchus como el más frecuente tanto en suelos como en raíces, seguido por Pratylenchus y Meloidogyne (Vera et al., 2017). Este hallazgo resalta la relevancia de los nematodos como limitantes en la producción agrícola en la región, lo que ha generado la necesidad de estrategias de control más eficaces y sostenibles para mitigar sus efectos adversos en la productividad del cultivo. 
+
+Por otro lado, en el distrito de Cuispes, provincia de Bongará, se ha llevado a cabo un estudio centrado en el café (Coffea arabica), donde se identificaron diez géneros de nematodos fitoparásitos, entre ellos, Meloidogyne y Pratylenchus fueron los más prevalentes, con Meloidogyne presentando las mayores densidades poblacionales, además, se observó que la textura del suelo influye significativamente en la población de estos nematodos, destacando los suelos franco arenosos como los más favorables para el crecimiento de Meloidogyne (Heredia, et al., 2015). Este tipo de investigación es crucial para desarrollar enfoques adecuados que promuevan la salud de los suelos y la sostenibilidad de los cultivos regionales en Amazonas. \
+:::
+
+# Hipótesis 
+
+Existen diferentes géneros de nemátodos fitoparásitos asociados al cultivo de rocoto (Capsicum pubescens) en la provincia de Rodríguez de Mendoza, región Amazonas. \
+
+# Metodología \
+
+## Área de estudio 
+
+::: {style="text-align: justify;"}
+La presente investigación se llevará a cabo en dos fases: una de campo y otra de laboratorio. En la fase de campo, se realizarán visitas a las parcelas de cultivo en los distritos de San Antonio, San José y el anexo de Izcuchaca. Durante esta fase, se evaluará la incidencia del nemátodo agallador en las parcelas productoras de rocoto (Capsicum pubescens) y se procederá con la recolección de muestras representativas de suelo rizosférico y raíces de manera aleatoria. La fase de laboratorio se llevará a cabo en el Laboratorio de Investigación en Sanidad Vegetal (LABISANV), del Instituto de Investigación para el Desarrollo Sustentable de Ceja de Selva (INDES-CES). En esta etapa, se realizarán los análisis de las muestras recolectadas, donde los nemátodos serán extraídos utilizando diferentes métodos de extracción. Posteriormente, se procederá a la identificación morfológica de los nemátodos mediante la observación bajo el microscopio SteREO – Nikon, con la toma de fotografías para documentar los hallazgos. \
+:::
+
+## Población, muestra y muestreo 
+
+::: {style="text-align: justify;"}
+Población: La población estará compuesta por todas las parcelas de rocoto (Capsicum pubescens) productivas no menor de cinco años de los distritos de San Antonio. San José y el anexo de Izcuchaca. 
+
+Muestra: Estará compuesta por un total de 25 unidades, que incluirán tanto muestras de rizósfera como de raíces del cultivo de rocoto (Capsicum pubescens) por parcela, de las cuales se seleccionarán aleatoriamente 3 plantas por parcela que presenten síntomas visibles de nemátodo agallador (agallas, nódulos en las raíces, amarillamiento y retraso en el crecimiento). De estas plantas, se recolectarán tanto muestras de raíces como de suelo de la rizósfera para su posterior análisis. 
+
+Muestreo: Para la identificación de nematodos fitoparásitos se realizará un muestreo aleatorio, donde se recolectarán muestras de plantas que no estén al borde del perímetro, recolectando un total de 25 muestras por parcela. Este enfoque permitirá datos precisos sobre la presencia de nemátodos fitoparásitos en el cultivo, además con la validación del postulado de Koch garantizará que los nemátodos identificados sean realmente los causantes del daño observado en el cultivo. \
+:::
+
+## Variables de estudio \
+
+### Variable independiente 
+- Parcelas de rocoto 
+- Géneros de nemátodos fitoparásitos. \
+
+### Variable dependiente 
+- Incidencia de nemátodos. 
+- Caracteres morfológicos de nematodos. 
+- Altura de planta. 
+- Diámetro del tallo. 
+- Número de raíces. 
+- Longitud de raíces. \
+
+## Métodos \
+
+### Tipo y nivel de la investigación
+
+::: {style="text-align: justify;"}
+Este trabajo corresponde a una investigación prospectiva, ya que se orienta a la observación de la dinámica de los nemátodos fitoparásitos en el cultivo de rocoto y su impacto en el desarrollo y rendimiento de la planta. Se pretende predecir y analizar los efectos futuros de la presencia de estos organismos en las parcelas a lo largo del tiempo, permitiendo la identificación de patrones y evaluación de posibles estrategias de manejo. \
+:::
+
+### Diseño de la investigación 
+
+::: {style="text-align: justify;"}
+Para desarrollar el objetivo tres, determinar el impacto de nemátodos fitoparásitos en el desarrollo radicular de la planta mediante prueba de patogenicidad, el estudio empleará un Diseño de Bloques Completos Aleatorios (DBCA) para analizar las plántulas de rocoto infectadas con nemátodos. Este diseño permitirá realizar comparaciones entre plántulas infectadas y no infectadas bajo condiciones controladas. Las plántulas se distribuirán en bloques, donde cada bloque representará una unidad experimental y se asignarán aleatoriamente las condiciones de inoculación con nemátodos. De esta forma, se podrán evaluar de manera precisa los efectos de los nemátodos fitoparásitos en el desarrollo de las plántulas, tanto en términos de crecimiento radicular como de salud general de la planta. Además, este diseño ayudará a minimizar la variabilidad externa, permitiendo obtener resultados más fiables y representativos sobre el impacto de los nemátodos en el cultivo de rocoto. \
+:::
+
+### Patogenicidad 
+
+::: {style="text-align: justify;"}
+Para evaluar la patogenicidad de los nemátodos fitoparásitos en el cultivo de rocoto (Capsicum pubescens), se llevará a cabo un experimento en el que se utilizarán semillas recolectadas de las parcelas productivas de la zona, estas serán desinfectadas superficialmente antes de ser germinadas en condiciones controladas en el laboratorio. Se empleará un sustrato estéril y un ambiente adecuado para la germinación. Las plántulas se mantendrán bajo condiciones de temperatura controlada, entre 25°C y 28°C, con un fotoperiodo de 12 horas de luz y 12 horas de oscuridad. Una vez que las plántulas alcancen la etapa de aclimatización, que será cuando presenten de 2 a 4 hojas verdaderas, se procederá al trasplante en macetas con un sustrato franco esterilizado previamente, para asegurar la ausencia de patógenos o nemátodos. El sustrato utilizado tendrá una cantidad de entre 1 y 2 kilogramos por maceta, lo suficiente para garantizar un buen desarrollo radicular y facilitar las posteriores inoculaciones y el muestreo (Hernández-Amasifuen et al., 2022). 
+
+Para la preparación del inóculo, los nemátodos serán extraídos de plantas infestadas mediante técnicas adecuadas, como el método de Baermann o tamizado-decantación, y su densidad poblacional será cuantificada y ajustada a una concentración determinada (Coyne et al., 2007). 
+
+La inoculación se realizará aplicando la suspensión de nemátodos directamente al cuello de la raíz o al sustrato en cada maceta, estableciendo dos grupos experimentales: plantas inoculadas (tratamiento) y plantas no inoculadas (control). 
+
+Las evaluaciones se realizarán haciendo un seguimiento quincenal de las plantas para documentar la aparición de síntomas característicos de la infección, tales como agallas en las raíces, necrosis o reducción del crecimiento, evaluando la incidencia y severidad de los daños en cada plántula. 
+
+Para finalizar con la investigación, los nemátodos serán nuevamente extraídos de las raíces y del sustrato para confirmar su presencia, completando así los criterios de causalidad establecidos en el postulado de Koch y demostrando que los nemátodos son los agentes patógenos responsables del daño observado en las plántulas de rocoto (Capsicum pubescens). \
+:::
+
+### Técnicas e instrumentos para la recopilación de datos 
+::: {style="text-align: justify;"}
+**Método y técnica:** Para desarrollar el estudio, se realizará un muestreo que será aleatorio, para determinar el porcentaje de incidencia de daño que están causando los nemátodos fitoparásitos en el cultivo de rocoto (Capsicum pubescens) en Rodríguez de Mendoza, Amazonas. \
+:::
+
+### Procedimiento e instrumentos para recopilación de datos 
+
+::: {style="text-align: justify;"}
+**Primera fase: Recolección de muestras **
+
+El presente estudio tiene como objetivo la recolección de 25 muestras de raíces y suelos de cada parcela de rocoto cultivadas en los distritos de San José y San Antonio y en el anexo de Izcuchaca Rodríguez de Mendoza, Amazonas. Las muestras serán extraídas de parcelas seleccionadas aleatoriamente para garantizar una representación adecuada de las condiciones del cultivo en la región. Utilizando coordenadas geográficas obtenidas mediante GPS portátil, se asegurará la precisión y representatividad de las parcelas seleccionadas. Las muestras de raíces y suelos se extraerán a una profundidad de 15 cm, lo que permitirá obtener un análisis detallado de las condiciones del suelo y las raíces afectadas por los nemátodos fitoparásitos. 
+
+**Segunda fase: Extracción y observación de nemátodos en laboratorio **
+
+**Métodos de extracción: **Para la extracción de nemátodos del suelo se empleará el método de Baermann modificado, ampliamente utilizado en nematología por su sencillez y eficacia (Viglierchio & Schmitt, 1983). Este consiste en colocar aproximadamente 100 - 200 g de suelo sobre una tela de malla fina o papel toalla resistente, la cual se dispone sobre un soporte dentro de una bandeja o embudo que contiene agua hasta que toque ligeramente la muestra, evitando su inmersión completa. Los nemátodos, gracias a su motilidad y al efecto de la gravedad, migran lentamente a través de la malla hacia el agua en el fondo del recipiente, donde se acumulan tras 24 - 48 horas y son recolectados cuidadosamente con una pipeta Pasteur o similar para su concentración en un frasco limpio. 
+
+En el caso de las raíces, estas serán cuidadosamente lavadas para eliminar restos de suelo adherido. Posteriormente, se cortarán en segmentos de 1 - 2 cm y se triturarán en un mortero estéril o se disectarán con un bisturí sobre una placa Petri con agua estéril, liberando así los nemátodos endoparásitos presentes en los tejidos. La suspensión obtenida se filtrará con un tamiz fino y se transferirá a tubos o frascos con agua limpia para su posterior montaje y observación (Staniland, 1954). 
+
+**Montaje de nemátodos:** Los nemátodos extraídos serán montados en portaobjetos para facilitar su observación microscópica. Para ello, se colocará una gota de la suspensión que contiene los nemátodos sobre un portaobjetos limpio, se cubrirá con un cubreobjetos y se observará inmediatamente. Este procedimiento permite que los ejemplares queden aplanados entre las láminas, lo que facilita el enfoque y la visualización sin causarles daño inmediato (Van Bezooijen, 2006). Este montaje puede realizarse en fresco vivos o en medios de conservación según el objetivo de la observación. 
+
+**Métodos de montaje:** Para observaciones rápidas, los nemátodos se montarán en agua o en una solución salina fisiológica, permitiendo apreciar su movilidad y rasgos morfológicos básicos en estado vivo (Van Bezooijen, 2006). Para observaciones más detalladas o cuando se requiera conservación a largo plazo, los nemátodos se fijarán en lactofenol o en una mezcla de glicerina, la cual deshidrata y preserva su morfología durante más tiempo, permitiendo un examen más preciso de las estructuras diagnósticas. En todos los casos se debe asegurar un volumen adecuado de medio de montaje y evitar la formación de burbujas de aire que podrían interferir con la visualización y dañar las muestras. 
+
+**Identificación de nemátodos:** La identificación taxonómica de los nemátodos se realizará mediante observación al microscopio estereoscópico o compuesto (SteREO Microscope – NIKON), siguiendo las claves taxonómicas y descripciones morfológicas estándar (Hunt & Handoo, 2009; Whitehead, 1968). Se evaluarán características diagnósticas esenciales tales como la forma y longitud del cuerpo, la morfología del estilete y su base, la posición y estructura de los órganos reproductivos, así como la forma de la cola. Estas características permitirán la identificación a nivel de género y, en algunos casos, de especie, facilitando la correlación entre el nemátodo identificado y los síntomas observados en las raíces de las plantas analizadas (Hunt & Handoo, 2009). 
+
+**Tercera fase: Inoculación de nemátodos** 
+
+**❖ Preparación de sustrato **
+
+El sustrato para establecer las plántulas de rocoto que se van a inocular con nemátodos, será un sustrato franco, preparado con turba, materia orgánica y arena con una proporción 1:1:1 respectivamente. 
+
+**❖ Evaluación de las variables de estudio **
+
+**Incidencia de nemátodos:** Porcentaje de plantas infectadas por nemátodos, determinado por la presencia de agallas u otros daños en las raíces, evaluado al final de cada ciclo de cultivo. 
+
+**Caracteres morfológicos de nematodos:** Identificación y descripción de los nemátodos presentes en las muestras de suelo, incluyendo características como forma, tamaño y color, según análisis microscópico. 
+
+**Altura de planta (cm):** Medición desde la base del tallo principal hasta la yema terminal de la planta, realizada cada 20 días durante el ciclo de cultivo. 
+
+**Diámetro del tallo (cm):** Medición del diámetro del tallo principal, realizado cada 20 días, para evaluar el crecimiento de la planta en respuesta a la infestación de nemátodos. 
+
+**Número de raíces:** Conteo de las raíces principales y secundarias de las plantas, realizado al final del ciclo de cultivo, para observar el desarrollo radicular afectado por los nemátodos. 
+
+**Longitud de raíces (cm):** Medición de la longitud total de las raíces de cada planta, realizada al final de la cosecha, para determinar la extensión del sistema radicular afectado. 
+:::
+
+## Diseño experimental 
+
+::: {style="text-align: justify;"}
+El diseño experimental se basará en un Diseño de Bloques Completos Aleatorios (DBCA), adecuado para evaluar los efectos de los nemátodos fitoparásitos en el crecimiento de las plántulas de rocoto. El experimento consistirá en dos grupos de plántulas: un grupo control (sin inoculación de nemátodos) y un grupo experimental (con inoculación de nemátodos), para esto se utilizarán 20 macetas con plántula de rocoto para cada género de nemátodos encontrados. Las plántulas se inocularán con los principales géneros de nemátodos agalladores y/o lesionadores previamente extraídas del campo, utilizando un procedimiento estandarizado de inoculación. Se distribuirán aleatoriamente las plántulas en bloques, de modo que cada bloque contenga tanto plántulas tratadas como no tratadas. Este diseño permitirá controlar las variables externas y evaluar de manera precisa los efectos de los nemátodos sobre el crecimiento radicular y la salud general de las plántulas. \
+
+## Análisis de datos 
+
+El análisis de los datos recopilados se realizará utilizando el programa excel, y R, el cual permitirá realizar el análisis de varianza (ANOVA) para comparar las medias de las diferentes variables entre los tratamientos experimentales y de control. Además, se utilizarán pruebas de normalidad, como Shapiro-Wilk, para verificar si los datos siguen una distribución normal antes de realizar las pruebas paramétricas. En caso de que los datos no sean normales, se recurrirá a métodos no paramétricos para el análisis.Se generarán gráficos y tablas para visualizar los resultados, y se usarán técnicas estadísticas descriptivas para resaltar las principales tendencias en los datos obtenidos. Los análisis estadísticos permitirán validar las hipótesis y proporcionar conclusiones claras sobre el impacto de los nemátodos fitoparásitos en el cultivo de rocoto. \
+:::
+
+# Referencias 
+::: {style="text-align: justify;"}
+Arias Gonzáles, J. L. (2021). Guía para elaborar la operacionalización de variables. Espacio I+D: Innovación Más Desarrollo, 10(28).
+
+Caballero Mairesse, G., Valiente Raidán, H., Enciso-Maldonado, G., & Pedrozo Fleitas, L. (2021). Nemátodos fitoparásitos asociados a solanáceas cultivadas en el departamento de Cordillera, Paraguay. Obtenido de https://www.researchgate.net/publication/354172843
+
+Castaño Zapata, J., Villegas Estrada, B., & Adrian Guzman, O. (2011). Principales nemátodos fitoparásitos y síntomas ocasionadas en cultivos de importancia económica. https://www.researchgate.net/publication/271203100
+
+Coyne, D., Nicol, J., & Cobe, B. (2009). Nematología práctica: Una guía de campo y laboratorio. SP-IPM Secretariat, International Institute of Tropical Agriculture (IITA), Cotonou, Benin. https://www.researchgate.net/publication/237249582_Nematologia_practica_Una_guia_de_campo_y_laboratorio
+
+Crozzoli, P. (2014). La nematología agrícola en Venezuela. Universidad Nacional de Venezuela. https://www.researchgate.net/publication/301200556_La_Nematologia_Agricola_en_Venezuela
+
+Guevara, E. (2016). Nematodos fitoparásitos asociados al cultivo de café (Coffea arabica L.) en el distrito de Cuispes, Bongará, Amazonas. Tesis para optar el título de Ingeniero Agrónomo. Universidad Nacional Toribio Rodriguez de Mendoza. 
+
+Hernández-Amasifuen, A. D., Argüelles Curaca, A., Cortez Lázaro, A. A., & Díaz Pillasca, H. B. (2021). Inducción in vitro de callos a partir de explantes foliares en rocoto (*Capsicum pubescens*). LA GRANJA. Revista de Ciencias de la Vida, 34(2), 131-140. https://doi.org/10.17163/lgr.n34.2021.09
+
+Hernández-Amasifuen, A. D., Argüelles Curaca, A., Cortez Lázaro, A. A., & Díaz Pillasca, H. B. (2021). Inducción in vitro de callos a partir de explantes foliares en rocoto (*Capsicum pubescens*). LA GRANJA. Revista de Ciencias de la Vida, 34(2), 131-140. https://doi.org/10.17163/lgr.n34.2021.09
+
+Hernández-Amasifuen, A. D., Pineda-Lázaro, A. J., Díaz-Pillasca, H. B., Hernández-Amasifuen, A. D., Pineda-Lázaro, A. J., & Díaz-Pillasca, H. B. (2022). Cultivo in vitro de anteras de rocoto (Capsicum pubescens). Idesia (Arica), 40(1), 115-121. https://doi.org/10.4067/S0718-34292022000100115
+
+Hunt, D. J., & Handoo, Z. A. (2009). Taxonomy, identification and principal species. En Root-knot nematodes (pp. 55-97). https://doi.org/10.1079/9781845934927.0055
+
+Noling, W. (2019). Nematode Management in Tomatoes, Peppers, and Eggplant. IFAS Extension. University of Florida.  
+
+Piedrahita, Ó. A., Castaño Zapata, J., & Villegas Estrada, B. (2012). Principales nematodos fitoparásitos y síntomas ocasionados en cultivos de importancia económica. Obtenido de https://www.researchgate.net/publication/271203100
+
+Salazar Antón, W., & Guzmán Hernández, T. (2013). Nematodos fitoparásitos asociados al tomate en la zona occidental de Nicaragua. Obtenido de Scielo: https://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S1659-13212013000100003#:~:text=Los%20principales%20nematodos%20asociados%20al,Shurtleff%20y%20Averre%20III%202000).
+
+Soto Pecho, B. V., Inga Ortiz, J. H., Buendía Quispe, B. F., Álvarez Rodríguez, F. J., Bernal Marcelo, A. R., & Vásquez Garay Torres, P. (2023). Evaluación del cultivo de rocoto (*Capsicum pubescens*) en Oxapampa Perú para una producción sostenible. En Estados Agroecológicos: O avanço da ciência no Brasil—Volume 2 (1.ª ed., pp. 139-156). Editora Científica Digital. https://doi.org/10.37885/231014820
+
+Staniland, L. N. (1954). A Modification of the Baermann Funnel Technique for the Collection of Nematodes from Plant Material. Journal of Helminthology, 28(1-2), 115-118. https://doi.org/10.1017/s0022149x00032739
+
+Vera, N., Maicelo, J., Guevara, E., & Oliva, S. (2017). Plant parasitic nematodes associated with pineapple cultivation (Ananas comosus) in Amazonas, Peru. Scientia Agropecuaria, 8, 79-84. https://doi.org/10.17268/sci.agropecu.2017.01.08
+
+Viglierchio, D. R., & Schmitt, R. V. (1983). On the Methodology of Nematode Extraction from Field Samples: Baermann Funnel Modifications. Journal of Nematology, 15(3), 438-444.
+
+Whitehead, A. G. (1968). Taxonomy of *Meloidogyne* (Nematodea: Heteroderidae) with descriptions of four new species. The Transactions of the Zoological Society of London, 31(3), 263-401. https://doi.org/10.1111/j.1096-3642.1968.tb00368.x
+:::
